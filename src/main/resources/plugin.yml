@@ -1,0 +1,14 @@
+name: DisguiseWorldFix
+version: '${project.version}'
+main: com.fiscalo.worldundisguise.DisguiseWorldFix
+author: Fiscalo
+description: iDisguise addon sourced for WhenGamersPlay network.
+depend:
+  - iDisguise
+commands:
+  disguiseworldfix:
+    usage: /<command>
+    description: reloads the configuration
+permissions:
+  disguiseworldfix.admin:
+    description: admin permissions

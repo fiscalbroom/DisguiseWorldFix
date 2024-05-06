@@ -1,0 +1,12 @@
+# DisguiseWorldFix made by Fiscalo
+# for WhenGamersPlay network
+# DreamServices © 2024
+
+
+license: "GET FROM DISCORD"
+
+disabled-worlds:
+  - "exampleworld"
+disabled-message: "&cDisguise disabilitato in questo mondo."
+no-permission: "&cNon hai il permesso per eseguire questo comando."
+reload-message: "&aPlugin ricaricato con successo."
